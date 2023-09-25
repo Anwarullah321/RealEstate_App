@@ -1,0 +1,18 @@
+<svg id="Group_121" data-name="Group 121" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="337" height="91" viewBox="0 0 337 91">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="side_nav_light" width="337" height="91" fill="#ddd8ff"/>
+    </clipPath>
+  </defs>
+  <path id="side_nav_light-2" data-name="side_nav_light" d="M0,0H337V91H0Z" fill="#f0b90b"/>
+  <g id="Mask_Group_17" data-name="Mask Group 17" clip-path="url(#clip-path)">
+    <g id="Group_378" data-name="Group 378" transform="translate(217 28)">
+      <circle id="Ellipse_68" data-name="Ellipse 68" cx="51.5" cy="51.5" r="51.5" fill="#fff" opacity="0.25"/>
+      <circle id="Ellipse_69" data-name="Ellipse 69" cx="27.5" cy="27.5" r="27.5" transform="translate(24 24)" fill="#fcfcfc" opacity="0.3"/>
+    </g>
+    <g id="Group_379" data-name="Group 379" transform="translate(-30 -27)">
+      <circle id="Ellipse_68-2" data-name="Ellipse 68" cx="38.5" cy="38.5" r="38.5" fill="#fff" opacity="0.248"/>
+      <circle id="Ellipse_69-2" data-name="Ellipse 69" cx="19.5" cy="19.5" r="19.5" transform="translate(19 19)" fill="#fff" opacity="0.3"/>
+    </g>
+  </g>
+</svg>

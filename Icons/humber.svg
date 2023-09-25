@@ -1,0 +1,4 @@
+<svg id="navbar_mobile" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <rect id="rectangle" width="28" height="28" fill="none"/>
+  <path id="path" d="M3,19.724H24.138V17.436H3v2.287Zm0-5.718H24.138V11.718H3v2.287ZM3,6V8.287H24.138V6Z" transform="translate(0.431 1.138)" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_444" data-name="Group 444" transform="translate(-138 -105)">
+    <g id="Group_430" data-name="Group 430" transform="translate(-57 -92)">
+      <circle id="Ellipse_74" data-name="Ellipse 74" cx="20" cy="20" r="20" transform="translate(195 197)" fill="#fff"/>
+    </g>
+    <g id="Group_433" data-name="Group 433" transform="translate(67.085 94.25)">
+      <g id="Group_439" data-name="Group 439">
+        <g id="Group_432" data-name="Group 432" transform="translate(-2 6)">
+          <g id="Group_429" data-name="Group 429" transform="translate(78.915 15.756)">
+            <g id="Group_427" data-name="Group 427" transform="translate(0 0)">
+              <g id="Group_426" data-name="Group 426" transform="translate(0)">
+                <g id="Group_425" data-name="Group 425" transform="translate(0 4.831)">
+                  <path id="ic_home_24px" d="M9.063,19.264v-5.74h3.531v5.74h4.414V11.61h2.649l-8.8-8.586L10.829,3,3.335,10.308,2,11.61H4.649v7.653Z" transform="translate(-2 -3)" fill="#707070"/>
+                </g>
+                <g id="Group_431" data-name="Group 431" transform="translate(0.461)">
+                  <path id="Path_138" data-name="Path 138" d="M10.927,5.169l-8.019,7.6Z" transform="translate(-2.908 -4.419)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <path id="Path_139" data-name="Path 139" d="M10.857,13.163,2.821,5.607Z" transform="translate(5.833 -4.967)" fill="none" stroke="#707070" stroke-width="1"/>
+                  <path id="Path_140" data-name="Path 140" d="M8.142,4.848l.784-.834" transform="translate(-0.217 -4.013)" fill="none" stroke="#707070" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+            <g id="Subtraction_17" data-name="Subtraction 17" transform="translate(20.17 2.546)" fill="none">
+              <path d="M5.252,18.841H3.65V2.174L5.252.127V18.84Zm-3.649,0H0v-12L1.6,4.792V18.84Z" stroke="none"/>
+              <path d="M 5.251504898071289 18.84060096740723 L 3.649505138397217 18.84060096740723 L 3.649495124816895 2.174291133880615 L 5.251504898071289 0.1265410482883453 L 5.251504898071289 18.84060096740723 Z M 1.602005124092102 18.84060096740723 L 5.071639861853328e-06 18.84060096740723 L 5.071639861853328e-06 6.839261054992676 L 1.602005124092102 4.791511058807373 L 1.602005124092102 18.84060096740723 Z" stroke="none" fill="#707070"/>
+            </g>
+          </g>
+        </g>
+        <path id="ic_trending_flat_24px" d="M17.736,10.065,14.634,8V9.548L3.245,9.536l.667.577.007.456,4.857.012h5.857v1.548Z" transform="translate(83.804 25.577) rotate(-48)" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="27" viewBox="0 0 29 27">
+  <g id="Group_103" data-name="Group 103" transform="translate(-361.75 -685.149)">
+    <g id="Group_102" data-name="Group 102" transform="translate(362.25 685.649)">
+      <g id="Group_101" data-name="Group 101">
+        <g id="Group_100" data-name="Group 100">
+          <path id="ic_account_circle_24px" d="M16,2C8.272,2,2,7.824,2,15S8.272,28,16,28s14-5.824,14-13S23.728,2,16,2Zm0,3.9a4.053,4.053,0,0,1,4.2,3.9A4.053,4.053,0,0,1,16,13.7a4.053,4.053,0,0,1-4.2-3.9A4.053,4.053,0,0,1,16,5.9Zm0,18.46a10.3,10.3,0,0,1-8.4-4.186c.042-2.587,5.6-4,8.4-4s8.358,1.417,8.4,4A10.3,10.3,0,0,1,16,24.36Z" transform="translate(-2 -2)" fill="#c6c6c6" stroke="#5b5b5b" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

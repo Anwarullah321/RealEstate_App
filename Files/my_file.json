@@ -1,0 +1,29 @@
+{
+"Property": [
+      {
+        "id": 1,
+        "name": "Regular",
+        "desc": "1 Kanal Plot",
+        "type": "Residentail",
+        "price": "PKR 4.0 crore",
+        "image": "Images/plot1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Resellar",
+        "desc": "2 Kanal Plot",
+        "type": "Commercial",
+        "price": "PKR 10 crore",
+        "image": "Images/plot2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Resellar",
+        "desc": "3 Kanal Plot",
+        "type": "Commercial",
+        "price": "PKR 20 crore",
+        "image": "Images/plot2.jpg"
+    }
+      
+    ]
+}
